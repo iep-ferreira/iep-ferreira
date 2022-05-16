@@ -28,7 +28,7 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
+        name = "Dr. Iuri Ferreira"
         tagline = "Title"
         location = "City Name, ST"
         photo = "profile.jpg"

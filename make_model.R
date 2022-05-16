@@ -5,3 +5,5 @@ library(blogdown)
 install_hugo()
 
 blogdown::new_site(theme = "darshanbaral/aafu", theme_example = TRUE)
+
+blogdown::serve_site()
