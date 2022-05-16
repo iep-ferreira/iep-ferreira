@@ -6,4 +6,6 @@ install_hugo()
 
 blogdown::new_site(theme = "darshanbaral/aafu", theme_example = TRUE)
 
+# Local preview
+
 blogdown::serve_site()
