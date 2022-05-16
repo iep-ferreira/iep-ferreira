@@ -30,7 +30,7 @@ theme = "aafu"
     [params.profile]
         name = "Dr. Iuri Ferreira"
         tagline = "Statistics Researcher and Professor"
-        location = "UFSCar, CCN, Buri - SP, Brazil"
+        location = "UFSCar, Brazil"
         photo = "profile.jpg"
 
     # Section for links to social websites
