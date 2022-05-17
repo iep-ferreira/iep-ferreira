@@ -1,16 +1,10 @@
 ---
-categories:
-- aliquam auctor
-- do
-date: "2018-05-23"
-description: vulputate sem sapien felis ullamcorper risus mi eu metus integer posuere
-  fermentum
+title: "vestibulum vitae dictum aliqua phasellus magnis at"
+date: 2018-05-23
+tags: ["aliquam incididunt", "notes", "velit"]
+categories: ["aliquam auctor", "do"]
+description: "vulputate sem sapien felis ullamcorper risus mi eu metus integer posuere fermentum"
 draft: false
-tags:
-- aliquam incididunt
-- notes
-- velit
-title: vestibulum vitae dictum aliqua phasellus magnis at
 ---
 
 # eu velit magna aliqua hendrerit

@@ -1,16 +1,10 @@
 ---
-categories:
-- diam aliqua
-- fringilla
-date: "2018-01-06"
-description: dictum tellus sapien vitae integer justo amet mauris cras bolestie sollicitudin
-  dignissim
+title: "luctus enim ultricies auctor pulvinar nam etiam"
+date: 2018-01-06
+tags: ["mollis urna", "notes", "laoreet"]
+categories: ["diam aliqua", "fringilla"]
+description: "dictum tellus sapien vitae integer justo amet mauris cras bolestie sollicitudin dignissim"
 draft: false
-tags:
-- mollis urna
-- notes
-- laoreet
-title: luctus enim ultricies auctor pulvinar nam etiam
 ---
 
 # donec lacinia eleifend sem a

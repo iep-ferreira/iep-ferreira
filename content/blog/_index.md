@@ -1,4 +1,4 @@
 ---
-title: My Blog
+title: "My Blog"
 weight: 100
 ---
