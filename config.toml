@@ -10,7 +10,7 @@ theme = "aafu"
 
     [params.theme]
         # Available themes are 'light', 'dark', 'ocean', and 'pinkish'
-        mainTheme = "ocean"
+        mainTheme = "light"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
         showAttribute = true
         singlePage = false
@@ -28,9 +28,9 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "Dr. Iuri Ferreira"
-        tagline = "Researcher/Professor"
-        location = "Ce - MECA, UFSCar, Brazil"
+        name = "DSc Iuri Ferreira"
+        tagline = "Federal University of São Carlos"
+        location = "Buri-SP, Brazil"
         photo = "profile.jpg"
 
     # Section for links to social websites
