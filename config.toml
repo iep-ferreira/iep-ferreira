@@ -179,59 +179,96 @@ theme = "aafu"
             type = "Books"
 
 
+        [[params.publication.list]]
+            title = "A family of smooth piecewise-linear models with probabilistic interpretations"
+            authors = "IEP Ferreira, SS Zocchi"
+            date = "2020"
+            journal = "arXiv preprint arXiv:2011.07753"
+            url = "https://arxiv.org/abs/2011.07753"
+            type = "preprint"
 
 
+        [[params.publication.list]]
+            title = "Milk quality, production process and physicochemical characteristics of Porungo, an artisanal cheese from the state of Sao Paulo, Brazil"
+            authors = "NFN Silva, KS de Aguiar, NJ Pimentel Filho, IEP Ferreira, ..."
+            date = "2020"
+            journal = "Journal of Dairy Research 87 (4), 480-483"
+            url = "https://www.cambridge.org/core/journals/journal-of-dairy-research/article/abs/milk-quality-production-process-and-physicochemical-characteristics-of-porungo-an-artisanal-cheese-from-the-state-of-sao-paulo-brazil/BA09716E390B413650993E398038415E"
+            type = "Journal Articles"
 
+
+        [[params.publication.list]]
+            title = "Sound exposure and its beneficial effects on embryonic growth and hatching of broiler chicks"
+            authors = "AC Donofre, IJO Da Silva, IEP Ferreira"
+            date = "2020"
+            journal = "British poultry science 61 (1), 79-85"
+            url = "https://www.tandfonline.com/doi/abs/10.1080/00071668.2019.1673315"
+            type = "Journal Articles"
+
+
+        [[params.publication.list]]
+            title = "Relationship between zooplankton richness and area in Brazilian lakes: comparing natural and artificial lakes and trends"
+            authors = "LO Longato, IEP Ferreira, G Perbiche-Neves"
+            date = "2018"
+            journal = "Acta Limnologica Brasiliensia 30"
+            url = "https://www.scielo.br/j/alb/a/48rRKNpSrFjM87kcRg5pBdk/abstract/?lang=en"
+            type = "Journal Articles"
 
 
 
         [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
+            title = "Modelo hierárquico bayesiano na determinação de associação entre marcadores e QTL em uma população F2"
+            authors = "RN Pereira, RA LEANDRO, AAF GARCIA, CLS JUNIOR, ..."
             date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            url = "#"
-            type = "Proceedings"
+            journal = "Revista Brasileira de Biometria 36 (2), 414-438"
+            url = "https://biometria.ufla.br/index.php/BBJ/article/view/210"
+            type = "Journal Articles"
+            
+            
 
+        [[params.publication.list]]
+            title = "Reconciling the Mitscherlich’s law of diminishing returns with Liebig’s law of the minimum. Some results on crop modeling"
+            authors = "IEP Ferreira, SS Zocchi, D Baron"
+            date = "2017"
+            journal = "Mathematical biosciences 293, 29-37"
+            url = "https://www.sciencedirect.com/science/article/abs/pii/S0025556417300093"
+            type = "Journal Articles"
 
 
         [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            url = "#"
-            type = "Proceedings"
-
-
-
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            url = "#"
-            type = "Proceedings"
-
+            title = "Mechanical vibrations in the transport of hatching eggs and the losses caused in the hatch and quality of broiler chicks"
+            authors = "AC Donofre, IJO da Silva, AC Nazareno, IEP Ferreira"
+            date = "2017"
+            journal = "Journal of Agricultural Engineering 48 (1), 36-41"
+            url = "https://j.agroengineering.org/index.php/jae/article/view/593"
+            type = "Journal Articles"
 
 
         [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            url = "#"
-            type = "Proceedings"
+            title = "Equilíbrio de cavalos da raça Quarto de Milha participantes da modalidade de três tambores por meio de proporções corporais"
+            authors = "AC Donofre, JNP Puoli Filho, IEP Ferreira, MDS Mota, M Chiquitelli Neto"
+            date = "2014"
+            journal = "Ciência Rural 44 (2), 327-332"
+            url = "https://scholar.google.com.br/citations?view_op=view_citation&hl=pt-BR&user=Oa7iIbwAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Oa7iIbwAAAAJ:zYLM7Y9cAGgC"
+            type = "Journal Articles"
 
 
         [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            url = "#"
-            type = "Proceedings"
+            title = "Efficient experimental designs for chemical kinetics studies"
+            authors = "IEP Ferreira, LA Trinca, CP Ferreira"
+            date = "2014"
+            journal = "Química Nova 37, 589-596"
+            url = "https://www.scielo.br/j/qn/a/Knfq6rJ7wpp67gKqMQqbrCh/abstract/?format=html&lang=en"
+            type = "Journal Articles"
 
+
+        [[params.publication.list]]
+            title = "Modelling fungus dispersal scenarios using cellular automata"
+            authors = "IEP Ferreira, RA Moral, CP Ferreira, WAC Godoy"
+            date = "2013"
+            journal = "Ecological informatics 14, 53-58"
+            url = "https://www.sciencedirect.com/science/article/abs/pii/S1574954112001112"
+            type = "Journal Articles"
 
 
     # Project section
