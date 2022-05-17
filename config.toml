@@ -28,7 +28,7 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "DSc Iuri Ferreira"
+        name = "Prof. Iuri Ferreira"
         tagline = "Federal University of São Carlos"
         location = "Buri-SP, Brazil"
         photo = "profile.jpg"
@@ -39,31 +39,23 @@ theme = "aafu"
 
         [[params.social.list]]
             icon = "fab fa-linkedin-in"
-            url = "#"
+            url = "https://www.linkedin.com/in/iuri-ferreira-35b51938"
             title = "LinkedIn"		
         [[params.social.list]]
-            icon = "fab fa-stack-overflow"
-            url = "#"
-            title = "StackOverflow"
-        [[params.social.list]]
             icon = "fab fa-github"
-            url = "#"
+            url = "https://github.com/iep-ferreira"
             title = "GitHub"
         [[params.social.list]]
-            icon = "fab fa-twitter"
-            url = "#"
-            title = "Twitter"
-        [[params.social.list]]
             icon = "fab fa-orcid"
-            url = "#"
+            url = "https://orcid.org/-0001-6567-1970"
             title = "Orcid"
         [[params.social.list]]
             icon = "ai ai-google-scholar"
-            url = "#"
+            url = "https://scholar.google.com/citations?user=Oa7iIbwAAAAJ&hl=en"
             title = "Google Scholar"
         [[params.social.list]]
             icon = "fab fa-researchgate"
-            url = "#"
+            url = "https://www.researchgate.net/profile/Iuri-Ferreira"
             title = "ResearchGate"
 
     #Specify what is showin in the Accordion
@@ -86,7 +78,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "I'am a researcher ... "
+        description = "Iuri has BSc in Health Physics and MSc in Biometrics from São Paulo State University (IBB/UNESP), and PhD in Statistics from University of São Paulo (ESALQ/USP), Brazil. He has experience in design of experiments, regression models, and statistics applied to biological, agricultural, and environmental data. Currently, Iuri is a professor at the Federal University of São Carlos and coordinates the Center of Statistical Modelling on Evironmental Sciences (Ce-MECA), working in the interface between R programming, mathematical modelling, simulation, and statistics."
 
     # Experience section
     [params.experience]
@@ -94,15 +86,16 @@ theme = "aafu"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2019 - *Present*"
-            company = "Company Name"
-            details = "Printed from desktop. Sent [emails](#). Called people using telephone. Drank water from office cooler. Ate donuts on people's birthdays."
+            position = "Assistant Professor"
+            dates = "2015 - *Present*"
+            company = "Federal University of São Carlos (CCN - UFSCar)"
+            details = "Buri-SP. Lagoa do Sino Campus. Contact: iuri@ufscar.br"
+            url = "https://www.lagoadosino.ufscar.br/"
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2018 - 2019"
-            url = "#"
-            company = "Company Name"
+            position = "Temporary Lecturer"
+            dates = "2013 - 2015"
+            url = "http://www.lce.esalq.usp.br/"
+            company = "University of São Paulo (ESALQ - USP)"
 
     # Education section
     [params.education]
@@ -110,20 +103,18 @@ theme = "aafu"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
-            degree = "Ph.D. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_url = "#"
+            degree = "DSc in Statistics and Agricultural Experimentation"
+        college = "Luiz de Queiroz College of Agriculture (ESALQ), from the University of São Paulo (USP) "
+            dates = "2011 - 2015"
+            thesis_title = "Smooth piecewise-linear models and applications in agriculture"
         [[params.education.list]]
-            degree = "M.S. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_url = "#"
+            degree = "MSc in Biometry"
+            college = "Institute of Biological Sciences of Botucatu, São Paulo State University (UNESP)"
+            dates = "2009 - 2011"
+            thesis_title = "D-optimum experimental designs for the Michaelis-Menten and Hill models"
         [[params.education.list]]
-            degree = "B.S. in Subject"
-            college = "University of State-City"
+            degree = "BSc in Health Physics"
+            college = "Institute of Biological Sciences of Botucatu, São Paulo State University (UNESP)"
             dates = "2004 - 2009"
 
     # Publication section
@@ -136,12 +127,63 @@ theme = "aafu"
         types = ["Journal Articles", "Proceedings"]
 
         [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            url = "#"
+            title = "Colloidal and Acid Gelling Properties of Mixed Milk and Pea Protein Suspensions"
+            authors = "IC Oliveira, IEP Ferreira, F Casanova, ALF Cavallieri, NFN Silva"
+            date = "2022"
+            journal = "Foods 11 (10)"
+            url = "https://www.mdpi.com/2304-8158/11/10/1383"
             type = "Journal Articles"
+
+
+        [[params.publication.list]]
+            title = "Phytoregulators and mineral nutrition interactions to the establishment of Passiflora alata seedlings"
+            authors = "GH Pinheiro Maciel, IEP Ferreira, D Baron"
+            date = "2021"
+            journal = "Journal of Plant Nutrition 44 (19), 2825-2839"
+            url = "https://www.tandfonline.com/doi/abs/10.1080/01904167.2021.1918715"
+            type = "Journal Articles"
+		
+        [[params.publication.list]]
+            title = "Does molybdenum and cobalt foliar spray mitigate nitrate starvation and ammonium deprivation stress?"
+            authors = "RA Nunicio Jr, D Baron, IEP Ferreira"
+            date = "2021"
+            journal = "Revista Brasileira de Fruticultura 43 (4)"
+            url = "https://www.scielo.br/j/rbf/a/YsBjVhkKnFdTkmdjFfRVYnM/abstract/?lang=en"
+            type = "Journal Articles"
+
+
+        [[params.publication.list]]
+            title = "Microbiological water quality monitoring of four ponds from Lagoa do Sino Farm located in São Paulo State, Brazil"
+            authors = "PA Evangelista, MAM de Souza, IEP Ferreira, ..."
+            date = "2021"
+            journal = "Acta Scientiarum. Biological Sciences 43, e52901-e52901"
+            url = "https://periodicos.uem.br/ojs/index.php/ActaSciBiolSci/article/view/52901"
+            type = "Journal Articles"
+
+
+        [[params.publication.list]]
+            title = "O comportamento do consumidor em tempos de influenciadores digitais"
+            authors = "TO Souto, EC de Oliveira, IEP Ferreira"
+            date = "2021"
+            journal = "Brazilian Journal of Development 7 (3), 30129-30150"
+            url = "https://brazilianjournals.com/index.php/BRJD/article/view/26984"
+            type = "Journal Articles"
+
+
+        [[params.publication.list]]
+            title = "Alternativas para o Desenvolvimento Sustentável do Sudoeste Paulista"
+            authors = "NF Nogueira Silva, LL Santos, AC Martensen, IEP Ferreira (Organizers)"
+            date = "2021"
+            journal = "Editora Científica (ISBN 978-65-5360-020-1)"
+            url = "https://www.editoracientifica.org/books/isbn/978-65-5360-020-1 1, 250"
+            type = "Books"
+
+
+
+
+
+
+
 
         [[params.publication.list]]
             title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -149,8 +191,10 @@ theme = "aafu"
             date = "2018"
             journal = "Journal of Field 52 (16), 9033-9044"
             url = "#"
-            type = "Journal Articles"
-		
+            type = "Proceedings"
+
+
+
         [[params.publication.list]]
             title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
             authors = "F Last, F Second, P secondary"
@@ -158,6 +202,37 @@ theme = "aafu"
             journal = "Journal of Field 52 (16), 9033-9044"
             url = "#"
             type = "Proceedings"
+
+
+
+        [[params.publication.list]]
+            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            authors = "F Last, F Second, P secondary"
+            date = "2018"
+            journal = "Journal of Field 52 (16), 9033-9044"
+            url = "#"
+            type = "Proceedings"
+
+
+
+        [[params.publication.list]]
+            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            authors = "F Last, F Second, P secondary"
+            date = "2018"
+            journal = "Journal of Field 52 (16), 9033-9044"
+            url = "#"
+            type = "Proceedings"
+
+
+        [[params.publication.list]]
+            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            authors = "F Last, F Second, P secondary"
+            date = "2018"
+            journal = "Journal of Field 52 (16), 9033-9044"
+            url = "#"
+            type = "Proceedings"
+
+
 
     # Project section
     [params.project]
