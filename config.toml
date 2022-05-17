@@ -124,7 +124,7 @@ theme = "aafu"
         #The order below determines the order in which the items appear in "Publications" section
         format = ["date", "authors", "title", "journal"]
         #If you don't want to group publications, comment the line below by adding # at the beginning
-        types = ["Journal Articles", "Proceedings"]
+        types = ["Books", "Journal Articles", "Preprints"]
 
         [[params.publication.list]]
             title = "Colloidal and Acid Gelling Properties of Mixed Milk and Pea Protein Suspensions"
@@ -185,7 +185,7 @@ theme = "aafu"
             date = "2020"
             journal = "arXiv preprint arXiv:2011.07753"
             url = "https://arxiv.org/abs/2011.07753"
-            type = "preprint"
+            type = "Preprints"
 
 
         [[params.publication.list]]
@@ -223,8 +223,6 @@ theme = "aafu"
             journal = "Revista Brasileira de Biometria 36 (2), 414-438"
             url = "https://biometria.ufla.br/index.php/BBJ/article/view/210"
             type = "Journal Articles"
-            
-            
 
         [[params.publication.list]]
             title = "Reconciling the Mitscherlich’s law of diminishing returns with Liebig’s law of the minimum. Some results on crop modeling"
@@ -234,7 +232,6 @@ theme = "aafu"
             url = "https://www.sciencedirect.com/science/article/abs/pii/S0025556417300093"
             type = "Journal Articles"
 
-
         [[params.publication.list]]
             title = "Mechanical vibrations in the transport of hatching eggs and the losses caused in the hatch and quality of broiler chicks"
             authors = "AC Donofre, IJO da Silva, AC Nazareno, IEP Ferreira"
@@ -242,7 +239,6 @@ theme = "aafu"
             journal = "Journal of Agricultural Engineering 48 (1), 36-41"
             url = "https://j.agroengineering.org/index.php/jae/article/view/593"
             type = "Journal Articles"
-
 
         [[params.publication.list]]
             title = "Equilíbrio de cavalos da raça Quarto de Milha participantes da modalidade de três tambores por meio de proporções corporais"
