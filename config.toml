@@ -28,9 +28,9 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
-        tagline = "Title"
-        location = "City Name, ST"
+        name = "Dr. Iuri Ferreira"
+        tagline = "Researcher/Professor"
+        location = "Ce - MECA, UFSCar, Brazil"
         photo = "profile.jpg"
 
     # Section for links to social websites
@@ -86,7 +86,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "This is a demo of the `aafu` theme. It has `light`, `dark`, `ocean`, and `pinkish` themes."
+        description = "I'am a researcher ... "
 
     # Experience section
     [params.experience]

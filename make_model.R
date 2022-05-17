@@ -1,10 +1,12 @@
-if (!requireNamespace("devtools")) install.packages("devtools")
-devtools::install_github("rstudio/blogdown")
+#if (!requireNamespace("devtools")) install.packages("devtools")
+#devtools::install_github("rstudio/blogdown")
 
 library(blogdown)
-install_hugo()
+#install_hugo()
 
-blogdown::new_site(theme = "darshanbaral/aafu", theme_example = TRUE)
+#blogdown::new_site(theme = "darshanbaral/aafu", theme_example = TRUE)
+install_theme("darshanbaral/aafu", theme_example = TRUE, 
+              update_config = TRUE)
 
 # Local preview
 
